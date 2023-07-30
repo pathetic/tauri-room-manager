@@ -16,6 +16,7 @@ Rust-based desktop application powered by Tauri, designed to efficiently manage 
     > Check which rooms are available within a specified timeframe
 
 # 🔧 Setup
+- Install [SurrealDB](https://surrealdb.com/)
 - Make sure you have the last version of rust and nodejs installed.
 - Install the dependencies.
 ```
