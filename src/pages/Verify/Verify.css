@@ -1,0 +1,47 @@
+#verify {
+    max-width: 1520px;
+    margin: 40px auto;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#verify-header {
+    padding: 10px;
+}
+
+.container {
+    max-width: 1520px !important;
+}
+
+.spinnerule {
+    position: absolute;
+    top: 27vh;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.spinner-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cardsize {
+    height: 511px !important;
+
+}
+
+.h3ul {
+    margin-top: 22vh;
+    text-align: center;
+}
+
+.db-manage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 40vh;
+}

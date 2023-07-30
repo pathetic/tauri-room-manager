@@ -1,0 +1,26 @@
+#table {
+    max-width: 1520px;
+    margin: 40px auto;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#table-header {
+    padding: 10px;
+}
+
+.react-bootstrap-table table {
+    table-layout: auto;
+}
+
+.mmm {
+    margin-left: auto;
+}
+
+.mmm2 {
+    width: max-content !important;
+}
+
+.row {
+    margin-right: 0 !important;
+}

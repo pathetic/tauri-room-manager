@@ -1,0 +1,25 @@
+.active {
+    color: #fff !important;
+}
+
+.inactive {
+    color: hsla(0, 0%, 100%, 0.55) !important;
+}
+
+.inactive:hover {
+    color: #fff !important;
+}
+
+.signout {
+    color: hsl(0, 0%, 100%) !important;
+}
+
+.signout:hover {
+    color: #fff !important;
+}
+
+.highlight {
+    background-image: linear-gradient(to right, #47b22a, #68da2b, #51e676) !important;
+    border-radius: 6px;
+    padding: 3px 6px;
+}

@@ -1,0 +1,7 @@
+#spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    background-color: white;
+}
