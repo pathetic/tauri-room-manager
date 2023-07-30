@@ -13,7 +13,7 @@ Rust-based desktop application powered by Tauri, designed to efficiently manage 
     > View all your reservations in a Table  
     > Create/Update/Delete reservations with ease
 - Availability Verification
-    > heck which rooms are available within a specified timeframe
+    > Check which rooms are available within a specified timeframe
 
 # 🔧 Setup
 - Make sure you have the last version of rust and nodejs installed.
